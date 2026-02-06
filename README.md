@@ -58,9 +58,17 @@ Alarm:
 - Dashboard is working correctly
 - Firebase is connected
 - Simulator works when run manually
-- Cloud execution is not enabled yet
 
 ## Future Plans
 
 - Run simulator on cloud without laptop
 - Connect real radiation sensor hardware
+
+- ## License
+
+© 2026 RADiSense
+
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+
+- Cloud execution is not enabled yet
