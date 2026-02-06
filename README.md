@@ -64,7 +64,7 @@ Alarm:
 - Run simulator on cloud without laptop
 - Connect real radiation sensor hardware
 
-- ## License
+## License
 
 © 2026 RADiSense
 
